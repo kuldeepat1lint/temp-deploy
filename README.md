@@ -1,2 +1,2 @@
-# react-dnd-demo-
+# react-dnd-demo
 Example of drag drop...
